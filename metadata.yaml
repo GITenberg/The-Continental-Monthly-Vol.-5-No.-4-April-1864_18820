@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18820#The-Continental-Monthly-Vol.-5-No.-4-April-1864
 gutenberg_bookshelf: Continental Monthly
 gutenberg_issued: '2006-07-13'
 gutenberg_type: Text
